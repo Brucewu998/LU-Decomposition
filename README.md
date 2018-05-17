@@ -1,6 +1,8 @@
 # LU-Decomposition
 Using LU decomposition to solve linear equations
-example:
+@example:
+@
+
 let A = mat3(2, -1, 3,
         4, 2, 5,
         1, 2, 0);
