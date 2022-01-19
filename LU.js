@@ -114,3 +114,5 @@ function lu(arraysA, arraysB) {
     return x;
 }
 
+console.log('test1');
+
